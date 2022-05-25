@@ -1,7 +1,7 @@
 # Deploy-Django-App-on-Ubuntu-
 Hello,
 <br>
-I am a beginner dev, so sorry for the terms used and the possible useless commands
+sorry for the terms used and the possible useless commands
 <br>
 <br>
 <br>
